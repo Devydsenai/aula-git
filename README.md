@@ -11,7 +11,7 @@ rastreia todas as alterações em um arquivo ou conjunto de arquivos,
 permitindo que os desenvolvedores voltem às versões anteriores e colaborem sem problemas,
 um sistema de controle de versões, uma ferramenta de software que rastreia e gerencia
  alterações em um sistema de arquivos, como código-fonte de projetos de software
-CVS, Mercurial, Git e SVN (Subversion); e as comerciais: SourceSafe, TFS, PVCS (Serena) e ClearCase
+## CVS, Mercurial, Git e SVN (Subversion); e as comerciais: SourceSafe, TFS, PVCS (Serena) e ClearCase
 sistemas de controle de versão centralizados (Centralized Version Control Systems – CVCS) e 
 sistemas de controle de versão distribuídos (Distributed Version Control Systems – DVCS)
 Pronome de tratamento, usado quando alguém se dirige a outrem, a uma segunda pessoa, 
