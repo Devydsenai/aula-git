@@ -46,6 +46,10 @@ Um cenário de encapsulamento ocorre quando protegemos os dados de um objeto, pe
 Um cenário de herança ocorre quando uma classe herda características de outra classe, permitindo que a nova classe aproveite os atributos e métodos da classe base. Isso promove a reutilização de código e facilita a manutenção, pois alterações na classe base afetam todas as classes derivadas.
 
 ## 5) cenário de polimorfismo:
+Um cenário de polimorfismo ocorre quando objetos de diferentes classes derivadas de uma mesma classe base podem ser tratados de forma uniforme, mas cada um executa seu próprio comportamento. Por exemplo, ao chamar um método com o mesmo nome em diferentes objetos, cada um responde de acordo com sua implementação específica.
+
+Exemplo: Uma classe base "Animal" com um método "fazerSom()". As classes "Cachorro" e "Gato" herdam de "Animal" e implementam "fazerSom()" de formas diferentes. Assim, ao chamar "fazerSom()" para um "Cachorro" ou um "Gato", cada um faz um som diferente, mesmo usando o mesmo método
+
 
 
 ## 6) 5 vantagens da POO:
