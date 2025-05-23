@@ -29,3 +29,24 @@ versões anteriores para entender as alterações feitas no código ao longo do 
 	SVN
 	Mercurial
 	O mais utilizado Git atualmente.
+
+# desafio02
+## 1) PROGRAMA ORIENTADOA A OBJETOS
+Programação Orientada a Objetos (POO) é um paradigma de desenvolvimento de software que organiza o código em torno de "objetos", que representam entidades do mundo real ou conceitos abstratos. Cada objeto possui atributos (características) e métodos (comportamentos). A POO facilita a reutilização, manutenção e escalabilidade do código, pois permite criar estruturas modulares e reutilizáveis
+
+Os principais pilares da POO são: encapsulamento, herança, polimorfismo e abstração. O encapsulamento protege os dados do objeto, permitindo acesso apenas por meio de métodos específicos. A herança permite que uma classe herde características de outra, promovendo o reaproveitamento de código. O polimorfismo possibilita que objetos de diferentes classes sejam tratados de forma uniforme. A abstração permite representar conceitos complexos de forma simplificada.
+
+## 2) cenário de abstração:
+E o processo de simplificar a complexidade do mundo real, modelando apenas os aspectos essenciais de uma entidade, ignorando detalhes desnecessários. Um cenário de abstração ocorre quando criamos uma classe que representa um conceito genérico, sem se preocupar com implementações específica
+
+## 3) cenário de encapsulamento:
+Um cenário de encapsulamento ocorre quando protegemos os dados de um objeto, permitindo que eles sejam acessados e modificados apenas por meio de métodos específicos (getters e setters). Isso impede que partes externas do código alterem diretamente os atributos do objeto, garantindo maior segurança e controle sobre os dados.
+
+## 4) cenário de herança:
+Um cenário de herança ocorre quando uma classe herda características de outra classe, permitindo que a nova classe aproveite os atributos e métodos da classe base. Isso promove a reutilização de código e facilita a manutenção, pois alterações na classe base afetam todas as classes derivadas.
+
+## 5) cenário de polimorfismo:
+
+
+## 6) 5 vantagens da POO:
+
