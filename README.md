@@ -54,3 +54,9 @@ Exemplo: Uma classe base "Animal" com um método "fazerSom()". As classes "Cacho
 
 ## 6) 5 vantagens da POO:
 
+1. **Reutilização de código:** Permite criar classes reutilizáveis, facilitando o reaproveitamento de funcionalidades em diferentes partes do sistema.
+2. **Facilidade de manutenção:** O código fica mais organizado e modular, tornando mais simples corrigir erros e implementar melhorias.
+3. **Escalabilidade:** Projetos orientados a objetos são mais fáceis de expandir, pois novas funcionalidades podem ser adicionadas sem grandes impactos no restante do sistema.
+4. **Segurança:** O encapsulamento protege os dados dos objetos, permitindo acesso controlado e evitando alterações indevidas.
+5. **Facilidade de modelagem:** A POO permite representar entidades do mundo real de forma mais próxima da realidade, facilitando o entendimento e o desenvolvimento do sistema.
+
